@@ -1,3 +1,3 @@
 # Application High-level Structure:
 
-## Stream: ## A frontend server that serves React webpages.
+<h3>Stream:</h3> A frontend server that serves React webpages.
